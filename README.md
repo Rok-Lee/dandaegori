@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
 A PhoneGap Hello World template
@@ -74,3 +75,9 @@ Another good resource for generating a good CSP declaration is [CSP is Awesome][
 
 ## Since 2017-08-17
 >>>>>>> 516accfd60718c4bec9b04674585a16775244123
+=======
+# 단대고리
+
+### 2017-08-17
+project begin
+>>>>>>> eeb1a1f2f373e50108be8e4c0ac99ddec8048a78
